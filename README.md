@@ -14,6 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# i am abyad
-## i am a cse student
-### from north south university
+# 👋 Hi, I'm A 🎓 **CSE Student** | 💻 **Learning AI & Machine Learning**
+
+I'm a computer science student who loves learning about **AI**, **machine learning**, and **coding**.  
+I enjoy exploring how computers can understand text, images, and data.  
+
+---
+
+## 🌱 About Me  
+- 🔭 Currently learning: Python, Machine Learning, and Data Science  
+- 💡 Interested in: AI, NLP, and Computer Vision  
+- 🤝 Open to: small projects, learning groups, and open-source work  
+- 🎯 Goal: To build smart and useful AI systems  
+
+---
+
+## 🧰 Skills & Tools  
+**Languages:** Python, C++, Java, HTML, CSS  
+**Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow  
+**Tools:** Git, VS Code, Jupyter Notebook  
+
+---
+
+## 🚀 Projects  
+🛠️ *I’ll add my projects here soon — stay tuned!*  
+
+
+
+
